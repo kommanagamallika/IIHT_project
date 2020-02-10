@@ -1,0 +1,14 @@
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Mentor\Mentor\bin\Debug\netcoreapp2.2\Mentor.deps.json
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Mentor\Mentor\bin\Debug\netcoreapp2.2\Mentor.runtimeconfig.json
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Mentor\Mentor\bin\Debug\netcoreapp2.2\Mentor.runtimeconfig.dev.json
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Mentor\Mentor\bin\Debug\netcoreapp2.2\Mentor.dll
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Mentor\Mentor\bin\Debug\netcoreapp2.2\Mentor.pdb
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Mentor\Mentor\obj\Debug\netcoreapp2.2\Mentor.csproj.CoreCompileInputs.cache
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Mentor\Mentor\obj\Debug\netcoreapp2.2\Mentor.RazorAssemblyInfo.cache
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Mentor\Mentor\obj\Debug\netcoreapp2.2\Mentor.RazorAssemblyInfo.cs
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Mentor\Mentor\obj\Debug\netcoreapp2.2\Mentor.AssemblyInfoInputs.cache
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Mentor\Mentor\obj\Debug\netcoreapp2.2\Mentor.AssemblyInfo.cs
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Mentor\Mentor\obj\Debug\netcoreapp2.2\Mentor.RazorTargetAssemblyInfo.cache
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Mentor\Mentor\obj\Debug\netcoreapp2.2\Mentor.dll
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Mentor\Mentor\obj\Debug\netcoreapp2.2\Mentor.pdb
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Mentor\Mentor\obj\Debug\netcoreapp2.2\Mentor.csprojAssemblyReference.cache

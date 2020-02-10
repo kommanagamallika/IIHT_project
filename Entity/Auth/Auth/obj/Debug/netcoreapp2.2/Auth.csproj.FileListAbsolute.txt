@@ -1,0 +1,14 @@
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Auth\Auth\bin\Debug\netcoreapp2.2\Auth.dll
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Auth\Auth\bin\Debug\netcoreapp2.2\Auth.deps.json
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Auth\Auth\bin\Debug\netcoreapp2.2\Auth.runtimeconfig.json
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Auth\Auth\bin\Debug\netcoreapp2.2\Auth.runtimeconfig.dev.json
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Auth\Auth\bin\Debug\netcoreapp2.2\Auth.pdb
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Auth\Auth\obj\Debug\netcoreapp2.2\Auth.csproj.CoreCompileInputs.cache
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Auth\Auth\obj\Debug\netcoreapp2.2\Auth.RazorAssemblyInfo.cache
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Auth\Auth\obj\Debug\netcoreapp2.2\Auth.RazorAssemblyInfo.cs
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Auth\Auth\obj\Debug\netcoreapp2.2\Auth.AssemblyInfoInputs.cache
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Auth\Auth\obj\Debug\netcoreapp2.2\Auth.AssemblyInfo.cs
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Auth\Auth\obj\Debug\netcoreapp2.2\Auth.RazorTargetAssemblyInfo.cache
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Auth\Auth\obj\Debug\netcoreapp2.2\Auth.dll
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Auth\Auth\obj\Debug\netcoreapp2.2\Auth.pdb
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Auth\Auth\obj\Debug\netcoreapp2.2\Auth.csprojAssemblyReference.cache

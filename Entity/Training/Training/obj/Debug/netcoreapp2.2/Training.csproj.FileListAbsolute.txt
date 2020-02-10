@@ -1,0 +1,14 @@
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Training\Training\bin\Debug\netcoreapp2.2\Training.deps.json
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Training\Training\bin\Debug\netcoreapp2.2\Training.runtimeconfig.json
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Training\Training\bin\Debug\netcoreapp2.2\Training.runtimeconfig.dev.json
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Training\Training\bin\Debug\netcoreapp2.2\Training.dll
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Training\Training\obj\Debug\netcoreapp2.2\Training.csproj.CoreCompileInputs.cache
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Training\Training\obj\Debug\netcoreapp2.2\Training.RazorAssemblyInfo.cache
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Training\Training\obj\Debug\netcoreapp2.2\Training.RazorAssemblyInfo.cs
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Training\Training\obj\Debug\netcoreapp2.2\Training.AssemblyInfoInputs.cache
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Training\Training\obj\Debug\netcoreapp2.2\Training.AssemblyInfo.cs
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Training\Training\obj\Debug\netcoreapp2.2\Training.RazorTargetAssemblyInfo.cache
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Training\Training\bin\Debug\netcoreapp2.2\Training.pdb
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Training\Training\obj\Debug\netcoreapp2.2\Training.dll
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Training\Training\obj\Debug\netcoreapp2.2\Training.pdb
+C:\Users\808183\Desktop\mentorOnDemand\Entity\Training\Training\obj\Debug\netcoreapp2.2\Training.csprojAssemblyReference.cache
